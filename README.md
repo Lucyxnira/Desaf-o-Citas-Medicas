@@ -4,7 +4,7 @@ Aplicación capaz de registrar a los nuevos usuarios almacenando su nombre, apel
 
 ## Descripción
 
-Desde API Random User se extraen 10 usuarios para generar la muestra de este proyecto, la cual tiene un /resgitro y /usuarios, para visualizar ambos.
+Desde API Random User se extraen 10 usuarios para generar la muestra de este proyecto, la cual tiene un /registro y /usuarios, para visualizar ambos.
 
 ## Empezando 
 
